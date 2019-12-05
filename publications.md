@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: A little bio!
+title: Publications
+#subtitle: A little bio!
 ---
 
 ## Journal and Conference Papers
