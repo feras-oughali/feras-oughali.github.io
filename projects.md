@@ -7,8 +7,7 @@ subtitle: A summary of conducted projects
 # Data Science and Machine Learning
 
 * **Steel Defect Detection (Kaggle competition)**  
-A multi-class segmentation problem to detect and mask various types of defects in images of steel sheets. There are 4 classes of steel defects. Each image may have no defects, a defect of a single class, or defects of multiple classes.
-
+A multi-class segmentation problem to detect and mask various types of defects in images of steel sheets. There are 4 classes of steel defects. Each image may have no defects, a defect of a single class, or defects of multiple classes.  
 This was my first participation in a Kaggle competition, top 15% on the Private Leaderboard was achieved.
 
 * **ICT Market Study for Saudi Arabia**  
